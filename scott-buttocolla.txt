@@ -63,6 +63,8 @@ https://codepen.io/icedragon84/pen/qBZGqMK?editors=1100
     37. Walk me through Lambda's git flow.
 
 
+
+
 		go to github and find the repo you want to clone
 		Create our own repo (fork)
 		Check for our name included after the fork on the "new" repo
